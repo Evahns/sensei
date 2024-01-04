@@ -39,7 +39,7 @@ to answer them.
 <img src="assets/demo-1.jpg" width="300">
 
 ```yaml
---2024-01-04 14:06:31--  https://raw.githubusercontent.com/vikhyat/moondream/main/assets/demo-1.jpg
+--2024-01-04 14:06:31--  https://raw.githubusercontent.com/1997MarsRover/sensei/main/assets/demo-1.jpg
 Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.110.133, ...
 Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
