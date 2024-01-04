@@ -34,8 +34,10 @@ python engine.py --image [IMAGE_PATH] [--interactive]
 When the `--interactive` flag is not set, the script will predict three questions and try
 to answer them.
 
-**Example**
-| ![](assets/demo-1.jpg) |
+**Interactive Example**
+
+<img src="assets/demo-1.jpg" width="300">
+
 ```yaml
 --2024-01-04 14:06:31--  https://raw.githubusercontent.com/vikhyat/moondream/main/assets/demo-1.jpg
 Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.110.133, ...
