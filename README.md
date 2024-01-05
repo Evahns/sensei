@@ -17,8 +17,8 @@ license restrictions.
 Clone this repository and install the dependencies:
 
 ```bash 
-git clone https://github.com/vikhyat/moondream.git
-cd moondream 
+git clone https://github.com/1997MarsRover/sensei.git
+cd sensei 
 ```
 
 ```bash
