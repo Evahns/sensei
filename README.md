@@ -69,3 +69,5 @@ The book is titled "The Little Book of Deep Learning" and is written by French a
   and exercise caution and critical thinking when using the model.
 * The model may generate offensive, inappropriate, or hurtful content if it is
   prompted to do so.
+
+  [Model weights](https://huggingface.co/vikhyatk/moondream0/tree/main)
